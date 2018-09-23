@@ -18,6 +18,7 @@ public class DestroyPanel : MonoBehaviour {
     
     {
         Uinterface.givePlayerItem();
+        Uinterface.destroyBox();
     }
 
 
