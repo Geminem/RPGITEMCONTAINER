@@ -8,7 +8,7 @@ public class Enemy : MonoBehaviour {
 	void Start () {
         animator = GetComponent<Animator>();
 
-        
+        Debug.Log("Vidak was here... Testing repository push!");
 	}
 	
 	// Update is called once per frame
